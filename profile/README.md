@@ -6,7 +6,7 @@ Emerald City Beacon is a nonprofit organization dedicated to building innovative
 
 ## Mission
 
-At Emerald City Beacon, our mission is to create a more equitable and connected world where everyone, regardless of their circumstances, has access to the resources they need to succeed. We are committed to fostering innovation, accessibility, and community-driven solutions that make a meaningful impact on people's lives.
+To empower community members seeking local resources by creating user-friendly platforms that overcomes barriers of language, ability, and access, while prioritizing the accuracy of the information and security of the user. 
 
 ## What We Do
 
