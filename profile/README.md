@@ -2,11 +2,7 @@
 
 **Empowering Communities with Real-Time Access to Vital Social Services**
 
-Emerald City Beacon is a nonprofit organization dedicated to building innovative, real-time resource navigation platforms. Our mission is to empower underserved communities by providing access to accurate, real-time information on essential services, helping individuals overcome barriers and thrive in today’s digital age.
-
-## Mission
-
-To empower community members seeking local resources by creating user-friendly platforms that overcomes barriers of language, ability, and access, while prioritizing the accuracy of the information and security of the user. 
+Emerald City Beacon is a nonprofit organization whose mission is to empower underserved communities by providing access to accurate, real-time information on essential services, helping individuals overcome barriers and thrive in today’s digital age.
 
 ## What We Do
 
@@ -17,4 +13,4 @@ To empower community members seeking local resources by creating user-friendly p
 
 ## Get Involved
 
-We welcome partnerships with nonprofits and social service providers. Reach out to us if you want to collaborate with us.
+We welcome partnerships with nonprofits and social service providers. [Reach out to us](https://www.emeraldcitybeacon.org/contact) if you want to collaborate.
